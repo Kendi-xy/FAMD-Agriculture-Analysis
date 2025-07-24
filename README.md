@@ -38,6 +38,5 @@ This project explores a mixed dataset combining agricultural, climate, and econo
 - `outputs/`: (optional) Saved visualizations or exports
 
 ## 🚧 Status
-This project is a **work in progress**, as I continue refining the analysis and improving the merging of economic, climate, and agricultural indicators. I’m learning Python and data analysis during this project, so feedback is always welcome.
-
+This project is a **work in progress**, as I continue refining the analysis and improving the merging of economic, climate, and agricultural indicators.
 
