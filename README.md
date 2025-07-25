@@ -32,11 +32,6 @@ This project explores a mixed dataset combining agricultural, climate, and econo
 - `hiplot` for visualizations
 - `pandas`, `matplotlib`, `seaborn` for EDA
 
-## 📂 Contents
-- `Agriculture_FAMD.ipynb`: Main Jupyter Notebook with the full workflow
-- `data/`: (optional) Folder containing datasets if you choose to upload
-- `outputs/`: (optional) Saved visualizations or exports
-
 ## 🚧 Status
 This project is a **work in progress**, as I continue refining the analysis and improving the merging of economic, climate, and agricultural indicators.
 
